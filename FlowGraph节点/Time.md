@@ -8,6 +8,8 @@
 
 ![1](https://gitee.com/Azureusbin/pic-lib/raw/master/imags/20201117182017.png)
 
+<font color=red>***注意！此节点在Time分类下，并非iSystem分类的子文件夹中。**</font>
+
 |     端口      |            用途            |
 | :-----------: | :------------------------: |
 | Time Out Once |       第一次闲置超时       |
