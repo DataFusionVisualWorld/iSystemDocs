@@ -149,6 +149,8 @@
 | RTSCamera.RotateFactorY  | 镜头旋转灵敏度Y轴         |
 | RTSCamera.MinPitchAngle  | 镜头俯仰角的最小角度      |
 | RTSCamera.MaxPitchAngle  | 镜头俯仰角的最大角度      |
+| RTSCamera.MinCameraDist  | 镜头最小距离              |
+| RTSCamera.MaxCameraDist  | 镜头最大距离              |
 | RTSCamera.DebugMode      | 调试模式-0为关闭，1为开启 |
 
 
